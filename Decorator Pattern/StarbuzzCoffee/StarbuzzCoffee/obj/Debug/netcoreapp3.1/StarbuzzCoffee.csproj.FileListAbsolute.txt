@@ -1,0 +1,13 @@
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.1\StarbuzzCoffee.exe
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.1\StarbuzzCoffee.deps.json
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.1\StarbuzzCoffee.runtimeconfig.json
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.1\StarbuzzCoffee.runtimeconfig.dev.json
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.1\StarbuzzCoffee.dll
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.1\StarbuzzCoffee.pdb
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.1\StarbuzzCoffee.csprojAssemblyReference.cache
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.1\StarbuzzCoffee.AssemblyInfoInputs.cache
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.1\StarbuzzCoffee.AssemblyInfo.cs
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.1\StarbuzzCoffee.csproj.CoreCompileInputs.cache
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.1\StarbuzzCoffee.dll
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.1\StarbuzzCoffee.pdb
+D:\Repos\C# Proj\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.1\StarbuzzCoffee.genruntimeconfig.cache
